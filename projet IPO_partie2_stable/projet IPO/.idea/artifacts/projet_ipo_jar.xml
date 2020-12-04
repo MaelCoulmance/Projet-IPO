@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="projet_ipo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/projet_ipo_jar</output-path>
+    <root id="archive" name="projet_ipo.jar">
+      <element id="module-output" name="projet_ipo" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/givenEnvironment.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
